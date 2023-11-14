@@ -12,5 +12,5 @@ docker pull meadml/cuda10.1-cudnn7-devel-ubuntu18.04-python3.6:latest
     python3 class_main.py
 
 4、回归问题：
-    python regression_main.py
+    python3 regression_main.py
 
